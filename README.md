@@ -4,12 +4,13 @@ Lab. vežba 2 - AngularJS
 
 Korišćenjem AngularJS biblioteke verzije 1.x napraviti klijentski deo aplikacije imenika. Aplikacija treba da obezbedi:
 
-    Stilizaciju stranice kao i elemenata za unos na formi koriscenjem BOOTSTRAP biblioteke.
-    Minimalna sirina ekrana na kojoj interfejs treba da bude funkcionalan je 1366px
-    Prikaz liste kontakata gde svaki kontakt poseduje ime, prezime, telefon i e-mail adresu. 
-    Mogućnost ažuriranja kontakata (jedan u jednom trenutku) aktiviranjem odgovarajuće opcije. Obezbediti mogućnost snimanja promena i otkazivanja izmena. Kontrole za izmenu kontakta se prikazuju na mestu originalog kontakta (umesto njega).
-    Mogućnost dodavavanja novog kontakta u listu. 
-    Mogućnost pretraživanja (filtriranja) liste kontakata.
+   Stilizaciju stranice kao i elemenata za unos na formi koriscenjem BOOTSTRAP biblioteke.
+   Minimalna sirina ekrana na kojoj interfejs treba da bude funkcionalan je 1366px
+   Prikaz liste kontakata gde svaki kontakt poseduje ime, prezime, telefon i e-mail adresu. 
+   Mogućnost ažuriranja kontakata (jedan u jednom trenutku) aktiviranjem odgovarajuće opcije. 
+   Obezbediti mogućnost snimanja promena i otkazivanja izmena. Kontrole za izmenu kontakta se prikazuju na mestu originalog kontakta (umesto njega).
+   Mogućnost dodavavanja novog kontakta u listu. 
+   Mogućnost pretraživanja (filtriranja) liste kontakata.
 
 
 Za pripremu vežbe pogledati materijal sa sajta:
