@@ -1,6 +1,7 @@
 # Simple Contacts Angular.js App
 
-Lab. vežba 2 - AngularJS
+
+# Task
 
 Korišćenjem AngularJS biblioteke verzije 1.x napraviti klijentski deo aplikacije imenika. Aplikacija treba da obezbedi:
 
