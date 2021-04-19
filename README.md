@@ -1,7 +1,7 @@
 # Simple Contacts Angular.js App
 
 
-# Task
+// Task
 
 Korišćenjem AngularJS biblioteke verzije 1.x napraviti klijentski deo aplikacije imenika. Aplikacija treba da obezbedi:
 
