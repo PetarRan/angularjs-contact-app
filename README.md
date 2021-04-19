@@ -1,4 +1,4 @@
-# HCI-lab2
+# Simple Contacts Angular.js App
 
 Lab. vežba 2 - AngularJS
 
